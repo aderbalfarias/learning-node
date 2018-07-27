@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Learning node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AderbalFarias/learningnode.git"
+  },
+  "author": "Aderbal Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AderbalFarias/learningnode/issues"
+  },
+  "homepage": "https://github.com/AderbalFarias/learningnode#readme"
+}
