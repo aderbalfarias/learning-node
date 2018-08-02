@@ -1,10 +1,10 @@
 console.log('Starting notes.js');
 
 module.exports.addNote = () => {
-	  console.log('addNote');
-	  return 'New note';
+	console.log('addNote');
+	return 'New note';
 };
 
 module.exports.add = (a, b) => {
-	  return a + b;
+	return a + b;
 };
