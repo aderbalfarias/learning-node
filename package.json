@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/AderbalFarias/learningnode#readme",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "yargs": "^16.0.3"
   }
 }
